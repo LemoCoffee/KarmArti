@@ -1,0 +1,10 @@
+{
+  "id": "LemoCoffee.KarmArt",
+  "name": "KarmArti",
+  "version": "1.0.0",
+  "authors": "LemoCoffee",
+  "description": "Gives every slugcat the ability to use scavenger corpses to pass through gates",
+  "requirements": [],
+  "requirements_names": [],
+  "checksum_override_version": true
+}
